@@ -11,12 +11,4 @@ export const MINUS_ONE = "MINUS_ONE";
 // The domain = the feature or category that this action belongs to
 // The eventName = the specific thing that happened
 
-// export const ADD_ONE = {
-//     type: "ADD_ONE"
-//     // NOT sure what to do for the payload so leaving it blank
-// };
-
-// export const MINUS_ONE = {
-//     type: "MINUS_ONE"
-// }
 
